@@ -1,0 +1,1 @@
+nix-shell -p gnumake bison flex  python3 python311Packages.setuptools swig python311Packages.pyelftools ncurses libuuid gnutls openssl
